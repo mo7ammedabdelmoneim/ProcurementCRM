@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Domain", "CRM.Domain\CR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Application", "CRM.Application\CRM.Application.csproj", "{9F763E42-6A59-4DAC-A4F5-5D3D11FBDDCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.Infrastructure", "CRM.Infrastructure\CRM.Infrastructure.csproj", "{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Infrastructure", "CRM.Infrastructure\CRM.Infrastructure.csproj", "{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.API", "CRM.API\CRM.API.csproj", "{81EA1452-83C5-4FED-BE60-0DE797E0732D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EA1452-83C5-4FED-BE60-0DE797E0732D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EA1452-83C5-4FED-BE60-0DE797E0732D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EA1452-83C5-4FED-BE60-0DE797E0732D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EA1452-83C5-4FED-BE60-0DE797E0732D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
