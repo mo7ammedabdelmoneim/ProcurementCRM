@@ -1,6 +1,10 @@
 ﻿using CRM.Domain.Common;
 
 namespace CRM.Domain.Entities;
+<<<<<<< HEAD
+=======
+
+>>>>>>> b80a905c9c1d6b724a8dcb8ee2dd9f97a92ce30d
 public class PurchaseOrderItem : BaseEntity
 {
     public Guid PurchaseOrderId { get; private set; }

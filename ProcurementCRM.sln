@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Application", "CRM.Appl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.Infrastructure", "CRM.Infrastructure\CRM.Infrastructure.csproj", "{4FAF2D31-AFE1-46C0-AD63-343A5101EC9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.API", "CRM.API\CRM.API.csproj", "{81EA1452-83C5-4FED-BE60-0DE797E0732D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.API", "CRM.API\CRM.API.csproj", "{81EA1452-83C5-4FED-BE60-0DE797E0732D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

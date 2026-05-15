@@ -2,6 +2,12 @@
 using CRM.Domain.Enums;
 
 namespace CRM.Domain.Entities;
+<<<<<<< HEAD
+=======
+
+namespace CRM.Domain.Entities;
+
+>>>>>>> b80a905c9c1d6b724a8dcb8ee2dd9f97a92ce30d
 public class User : BaseEntity
 {
     public string FirstName { get; private set; }

@@ -1,6 +1,12 @@
 ﻿using CRM.Domain.Common;
 
 namespace CRM.Domain.Entities;
+<<<<<<< HEAD
+=======
+
+namespace CRM.Domain.Entities;
+
+>>>>>>> b80a905c9c1d6b724a8dcb8ee2dd9f97a92ce30d
 public class AuditLog : BaseEntity
 {
     public string EntityName { get; private set; }

@@ -11,7 +11,11 @@ public class Contact : BaseEntity
     public string? JobTitle { get; private set; }
     public string? Notes { get; private set; }
 
+<<<<<<< HEAD
     // Computed full name 
+=======
+    // Computed full name
+>>>>>>> b80a905c9c1d6b724a8dcb8ee2dd9f97a92ce30d
     public string FullName => $"{FirstName} {LastName}";
 
     private Contact() { }
